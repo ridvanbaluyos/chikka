@@ -42,4 +42,7 @@ php artisan config:publish ridvanbaluyos/chikka
 
 ## Usage ##
 ### Sending SMS to users
+```php
+Chikka::send('Welcome to Chikka!', '639981234567');
+```
 
