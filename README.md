@@ -12,7 +12,7 @@ A Chikka API package for Laravel 4.
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-    - [Sending SMS](#send)
+    - [Sending SMS](#sending-sms-to-users)
 
 
 ## Installation ##
