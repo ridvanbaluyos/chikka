@@ -1,7 +1,14 @@
 {
     "name": "ridvanbaluyos/chikka",
-    "description": "A Laravel Package for the Chikka SMS Api.",
-    "license": "BSD-2-Clause",
+    "description": "A Laravel 4 Package for the Chikka SMS API.",
+    "type": "laravel-package",
+    "license": "GPL v2",
+    "keywords": [
+        "sms",
+        "chikka",
+        "laravel",
+        "api"
+    ],
     "authors": [
         {
             "name": "ridvanbaluyos",
