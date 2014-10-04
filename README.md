@@ -12,7 +12,10 @@ A Chikka API package for Laravel 4.
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
+    - [Receiving SMS](#receiving-sms-from-users)
     - [Sending SMS](#sending-sms-to-users)
+    - [Replying to an SMS](#replying-to-an-sms)
+    - [Receiving Delivery Notifications](#receiving-delivery-notifications)
 
 
 ## Installation ##
@@ -41,8 +44,17 @@ php artisan config:publish ridvanbaluyos/chikka
 ```
 
 ## Usage ##
+### Receiving SMS from users
+Not yet available
+
 ### Sending SMS to users
 ```php
 Chikka::send('Welcome to Chikka!', '639981234567');
 ```
+
+### Replying to an SMS
+Not yet available
+
+### Receiving Delivery Notifications
+Not yet available
 
