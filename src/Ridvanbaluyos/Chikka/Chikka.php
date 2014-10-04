@@ -71,7 +71,7 @@ class Chikka
         curl_close($ch);
 
         // Add the message_id in the response.
-        $response = json_decode('{"status": 200, "message": "ACCEPTED"}', true);
+        $response = json_decode($response, true);
         $response['message_id'] = $message_id;
         $response = json_encode($response);
 
