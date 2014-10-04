@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Config;
 
 define('MESSAGE_TYPE_1', 'incoming');
-define('MESSAGE_TYPE_2', 'REPLYL');
+define('MESSAGE_TYPE_2', 'REPLY');
 define('MESSAGE_TYPE_3', 'SEND');
 define('MESSAGE_TYPE_4', 'outgoing');
 define('MESSAGE_ID_LENGTH', 32);
