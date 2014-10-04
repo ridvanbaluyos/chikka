@@ -37,6 +37,7 @@ class Chikka
 
     /**
      * Send a new sms
+     *
      * @param  string       $message
      * @param  string       $recipient
      * @param bool          $mustInit
