@@ -21,7 +21,7 @@ A Chikka API package for Laravel 4.
 ## Installation ##
 Open your `composer.json` file and add the following to the `require` key:
 
-    "ridvanbaluyos/chikka": "dev-master"
+    "ridvanbaluyos/chikka": "v1.0"
 
 ---
 
