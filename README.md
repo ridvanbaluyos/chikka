@@ -16,10 +16,29 @@ A Chikka API package for Laravel 4.
 
 
 ## Installation ##
+Open your `composer.json` file and add the following to the `require` key:
 
+    "ridvanbaluyos/chikka": "dev-master"
+
+---
+
+After adding the key, run composer update from the command line to install the package
+
+```bash
+composer update
+```
+
+Add the service provider to the `providers` array in your `app/config/app.php` file.
+
+    'Ridvanbaluyos\Chikka\ChikkaServiceProvider'
 
 ## Configuration ##
+Before you can start using the package we need to set some configurations.
+To do so you must first publish the config file, you can do this with the following `artisan` command.
 
+```bash
+php artisan config:publish ridvanbaluyos/chikka
+```
 
 ## Usage ##
 ### Sending SMS to users
