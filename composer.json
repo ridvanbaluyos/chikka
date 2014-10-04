@@ -1,0 +1,24 @@
+{
+    "name": "ridvanbaluyos/chikka",
+    "description": "A Laravel Package for the Chikka SMS Api.",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "ridvanbaluyos",
+            "email": "ridvan@baluyos.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Ridvanbaluyos\\Chikka\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
