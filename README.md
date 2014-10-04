@@ -1,7 +1,7 @@
 ridvanbaluyos/chikka
 =======
 
-A Chikka API package for Laravel 4 for sending SMS.
+A Chikka API package for Laravel 4.
 
 > This package makes use of the [Chikka API](http://api.chikka.com).<br />
 
@@ -12,7 +12,7 @@ A Chikka API package for Laravel 4 for sending SMS.
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-    - [Views](#views)
+    - [Sending SMS](#send)
 
 
 ## Installation ##
@@ -22,5 +22,5 @@ A Chikka API package for Laravel 4 for sending SMS.
 
 
 ## Usage ##
-
+### Sending SMS to users
 
