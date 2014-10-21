@@ -58,10 +58,7 @@ class Chikka
             'secret_key' => $this->secret_key
         );
 
-        $query = '';
-        foreach ($params as $key=>$param) {
-            $query .= '&' . $key . '=' . $param;
-        }
+        $query = http_build_query($params);
 
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $this->url);
