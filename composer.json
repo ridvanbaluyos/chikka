@@ -3,7 +3,7 @@
     "version": "v1.0",
     "description": "A Laravel 4 Package for the Chikka SMS API.",
     "type": "laravel-package",
-    "license": "GPL v2",
+    "license": "MIT",
     "keywords": [
         "sms",
         "chikka",
