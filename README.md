@@ -8,6 +8,7 @@ A Chikka API package for Laravel 4.
 
 <br />
 [![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/chikka/v/stable)](https://packagist.org/packages/ridvanbaluyos/chikka) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/chikka/downloads)](https://packagist.org/packages/ridvanbaluyos/chikka) [![Latest Unstable Version](https://poser.pugx.org/ridvanbaluyos/chikka/v/unstable)](https://packagist.org/packages/ridvanbaluyos/chikka) [![License](https://poser.pugx.org/ridvanbaluyos/chikka/license)](https://packagist.org/packages/ridvanbaluyos/chikka)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/91ba2bf489e043f4a43b7e7a71a69843)](https://www.codacy.com/app/ewoklabs/chikka?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ridvanbaluyos/chikka&amp;utm_campaign=Badge_Grade)
 
 ## Table of contents ##
 - [Installation](#installation)
